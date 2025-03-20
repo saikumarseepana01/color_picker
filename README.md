@@ -14,7 +14,7 @@ This is a simple **Color Picker** web application built using **HTML, CSS, and J
 
 ## 🚀 Live Demo  
 Try it here:  
-🔗 [GitHub Pages Link](https://saikumarseepana01.github.io/)  
+🔗 [GitHub Pages Link](https://saikumarseepana01.github.io/color_picker/)  
 
 ## 📂 Project Structure  
 / (Root Directory) │── index.html # Main HTML file │── style.css # CSS file for styling │── script.js # JavaScript file for functionality │── README.md # Project documentation
